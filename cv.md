@@ -3,7 +3,8 @@
 ### Contacns
 
 [![gmail](https://icongr.am/simple/gmail.svg?size=16&color=currentColor) hleb.kashko@gmail.com](mailto:hleb.kashko@gmail.com)  
-[![GitHub](https://icongr.am/simple/github.svg?size=16&color=currentColor) Github](https://github.com/hleb-kashko)
+[![GitHub](https://icongr.am/simple/github.svg?size=16&color=currentColor) Github](https://github.com/hleb-kashko)  
+
 
 ---
 
@@ -25,4 +26,5 @@ Unfinished middle school.
 ### English
 
 My level of english is B1.
+Use it almost every day in daily routine.
 
